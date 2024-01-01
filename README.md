@@ -1,7 +1,7 @@
 # Kaggle Project: Multi-Class Prediction of Cirrhosis Outcomes：[https://www.kaggle.com/competitions/playground-series-s3e26/data]
 ## Project Introdution:
 
-The objective is to accurately forecast whether a patient has Cirrhosis, utilizing pertinent demographic details and body measurement data.
+The objective is to predict the health status of patients diagnosed with Cirrhosis based on their demographic information and body measurements.
 
 **Overview of the Dataset**: 
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the Cirrhosis Patient Survival Prediction dataset. Feature distributions are close to, but not exactly the same, as the original.
